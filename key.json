@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "poojitha-firebase-crud",
+    "private_key_id": "99d289f08d8d1575acd7935fe4ce4c676c28f88b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqgmikHBQY2eAQ\nM5Qe5yWpMs5qJ/FHhAbgUwkY9hapZcdxQfV5S5MSYEw81rSnjaawj+Gmhkl1jpeE\n+dAKGeQChT8W09BRavn/B02Epog64mZotSMOrl69aangivJYy2m96l7Py15oe11v\n7lCIm/z9Lx4DZSqmSUqiGhqKDvR8FOsJpK7xqAtAHFvjKyZTdsIVZqliKeCajly0\n6EwQJIi6GwiDjCjJL06N6Aicyq5Q5WAtMysEWiLx8ce5id+kGK/JJ0oEdvkq8UvM\nZdSZ9xeynkzKRUyhckZuqTf9d45kbAmlhj1+xyaF17c3ygluR5nz9P1APNxgKhqP\nc8iJJxnrAgMBAAECggEAKcP5x8EM9y1fIfjQXmV2JyTHxN71zfO8D3SndNLKqEHD\nAa4LZ+OoKccmxXw+EhCzdOo5dqXMFpyP5sWePOssm6Vx17CYhWjzxZFPXp/AHNRa\nC2nbJXx2vmTEdLj0NeXVh+yBvtpszKDzOTihx2SWKppA+snsEYFAY8aLG6ggIMhE\nCGBs9aokjhLsVh6wBKF3lhIs1nbZAW2QgXEydHF28uwCM5f8VEpzvqnpyP8En/QH\neFmodu04WFQn55Q0yPYQTwz5IkTOvl7su/mJyFCURPRAH+9Xvqh6emunxxAcOcij\nbLyhDkVBdSEk5cjZ9hTvHibAAukN3IRil8+IyrKLWQKBgQDnoLYXbSC06LdnBBwb\n2e2VNHVz248IBhhnwHsD/a4DV/vFNgv2sEB3WKO1liMsxo2RqUxh0WC/0hRHr1AW\nS/uydI4pJ0FN7Q9Ar5u4uxuGiWXaOtF6JTy40TkeOYqu8xHywRFR5RSKgx6ebZd/\nsK6MjqGl7JQzaOQp3sgpjRNUzwKBgQC8c16+ND+7H8NTSzpiFV0oW2eFyy7HzJHd\nj2gBMVJxOEsZhwkB+vjCXP8rkvoF0prr7oWz1iaTwS3KW6Z18BOHUc2LNkJ1VmIU\n48IPNfipS+nLdoDrgZyaBgRwJ9ohWqlHnvlZVaFTt0iGecOMvWBTNg9rZM0OHBdf\naIHkxAyoJQKBgQDWMWux5hxkrv9KqCZGKxTk8QncBaESznArIXegjSoptWcBS6Vs\njjhPJQzekuQcN9AabvBPVIufVumiEKCCvekXcWk07TQal6mPK9VY0s31b4FceR/V\nUDICxpeHN7bjaaujTJ5zmN+R5wadgsKiNgRzvkIFaezyTYEQpw96PRcvSQKBgGzs\nYj6eBJgr68IhIUXAA3BoJJX4srlZTJY7ZWoLEBPQ7dd7bYFvhokRJ4wQD+N9r33f\nB/jCNtoANm9YOgbBFQiKB7wHSLJ5k4dvfaM9FtUDw8aOYEW/TLzZ7YbGAhZ1SJLV\nGFrCW9T/gzP2/UhDzYFLJe50/PDC29+RkEKh7o7hAoGBAJnIJa/tsFVBW2xexbw0\nTeCe0bM8x9qLKENpGRBY7UcjYr6DYxhoNafZpUmV0Fcf3i00l8roH1DHc9y/5NAx\nPCQ0hK+d87zEEVcsFaoiVIfiaUanMAUgmDWl2GAh4xUkQ4qeMB/wWL9T1cuzSay7\nkEfZ/dyYvfrGCzFD9H5cvDcH\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-cexid@poojitha-firebase-crud.iam.gserviceaccount.com",
+    "client_id": "102833054187123842144",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-cexid%40poojitha-firebase-crud.iam.gserviceaccount.com"
+  }
+  
